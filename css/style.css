@@ -1,0 +1,113 @@
+
+.custom_desing_btn{
+    color: aquamarine;
+}
+
+
+.custom-li{
+    list-style: none;
+    padding-left: 0;
+}
+.custom{
+    background-color: blueviolet;
+    margin-top: -2rem;
+   
+}
+
+.custom-p{
+    position: relative;
+}
+.custom_h2{
+  margin-bottom: 6rem;
+}
+
+.custom-bg-c{
+  background-color: black;
+  color: aliceblue;
+  padding: 70px;
+}
+.left_side{
+  margin: auto 0;
+}
+
+
+
+
+
+
+
+
+  
+
+
+@media only screen and (min-width:991px) and ( max-width:1200px){
+
+}
+@media only screen and (min-width:769px) and ( max-width:990px){
+ 
+ 
+  }
+  @media only screen and (min-width:575px) and ( max-width:768px){
+    
+    .custom-w{
+      width: 100% !important;
+    }
+    .text{
+      text-align: center;
+    }
+    h3{
+      text-align: center;
+    }
+    .right_side{
+      text-align: center;
+      margin: 0 auto;
+    }
+    
+  }
+  @media only screen and (min-width:575px) and ( max-width:768px){
+    
+    .custom-w{
+      width: 100% !important;
+    }
+    .text{
+      text-align: center;
+    }
+    h3{
+      text-align: center;
+    }
+    .right_side{
+      text-align: center;
+      margin: 0 auto;
+    }
+    .imgage img{
+      width: 100% !important;
+    }
+    
+  }
+  @media only screen and (min-width:381px) and ( max-width:574px){
+    .banner_title{
+      font-size: 14px !important;
+    }
+    .banner_p{
+      font-size: 11px !important;
+    }
+    .custom-w{
+      width: 100% !important;
+    }
+    .text{
+      text-align: center;
+    }
+    h3{
+      text-align: center;
+    }
+    .right_side{
+      text-align: center;
+      margin: 0 auto;
+    }
+    .imgage img{
+      width: 100% !important;
+    }
+    
+  }
+  
+ 
